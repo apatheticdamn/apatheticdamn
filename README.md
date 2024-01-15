@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey world! 👋
 
 ## Who am I?
 
@@ -10,7 +10,7 @@ I'm a coding enthusiast with a flair for turning caffeine into code. I speak the
 
 ## My Playground 🎮💻
 
-I find joy in creating worlds within the digital realm. Games, websites, programs - you name it, I've probably dabbled in it. I'm on a never-ending quest to explore the vast landscapes of computer science because, let's face it, computers are basically the coolest puzzle boxes ever invented.
+I find joy in creating worlds within the digital realm. I'm on a never-ending quest to explore the vast landscapes of computer science because, let's face it, computers are basically the coolest puzzle boxes ever invented.
 
 ## Hobbies and Tunes 🌈🎶
 
@@ -22,7 +22,7 @@ In my downtime, you'll catch me indulging in the magical worlds of anime, conque
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Passions:** Games, Websites, Programs
 - **Hobbies:** Anime, Gaming, Web Series, Movies, Music
-- **Favorite Band:** Ciggs After Sex (for that mesmerizing androgynous voice)
+- **Favorite Band:** Ciggs After S (for that mesmerizing androgynous voice)
 - **Motto:** "I might be Apathetic, but I'm certainly not indifferent to the magic of coding!"
 
 Feel free to wander through my repositories, and let's embark on a code-filled journey together! 🚀✨
