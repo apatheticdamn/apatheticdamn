@@ -14,7 +14,7 @@ I find joy in creating worlds within the digital realm. I'm on a never-ending qu
 
 ## Hobbies and Tunes 🌈🎶
 
-In my downtime, you'll catch me indulging in the magical worlds of anime, conquering virtual realms in games, binge-watching web series and movies. When I'm not lost in lines of code, I immerse myself in the symphony of music. My favorite band? Ciggs After Sex, all thanks to the enchanting androgynous voice of their main vocal artist.
+In my downtime, you'll catch me indulging in the magical worlds of anime, conquering virtual realms in games, binge-watching web series and movies. When I'm not lost in lines of code, I immerse myself in the symphony of music. My favorite band? Ciggs After S, all thanks to the enchanting androgynous voice of their main vocal artist.
 
 ## In a Nutshell 🌰
 
