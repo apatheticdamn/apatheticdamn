@@ -8,14 +8,6 @@ Hey, I'm Apathetic! Yes, my name might sound like I have a deep connection with 
 
 I'm a coding enthusiast with a flair for turning caffeine into code. I speak the languages of HTML, CSS, JavaScript, and Python. Whether it's crafting games that make pixels do the cha-cha, building websites that sing and dance, or exploring new horizons in programming, I've got it covered.
 
-## My Playground 🎮💻
-
-I find joy in creating worlds within the digital realm. I'm on a never-ending quest to explore the vast landscapes of computer science because, let's face it, computers are basically the coolest puzzle boxes ever invented.
-
-## Hobbies and Tunes 🌈🎶
-
-In my downtime, you'll catch me indulging in the magical worlds of anime, conquering virtual realms in games, binge-watching web series and movies. When I'm not lost in lines of code, I immerse myself in the symphony of music. My favorite band? Ciggs After S, all thanks to the enchanting androgynous voice of their main vocal artist.
-
 ## In a Nutshell 🌰
 
 - **Name:** Apathetic
