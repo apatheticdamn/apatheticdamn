@@ -43,7 +43,7 @@
   </a>
 </p>
 
-## In a Nutshell 🌰
+### In a Nutshell 🌰
 
 - **Name:** Apathetic
 - **Languages:** HTML, CSS, JavaScript, Python
