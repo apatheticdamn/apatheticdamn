@@ -2,13 +2,16 @@
 <h3 align="center">I'm a coding enthusiast with a flair for turning caffeine into code.</h3>
 <img align="right" alt="Mai-San-gif" width="380" src="https://cdn.discordapp.com/attachments/1126453594653216799/1198343974470033508/output-onlinegiftools.gif?ex=65be8fcb&is=65ac1acb&hm=e51b16824652aaae1fee3cd20fb89b05235aac29ad3bf9a26b928f52eb971968&">
 <br>
-- 👨‍💻 All of my projects are available at [https://apathetic.vercel.app/](https://apathetic.vercel.app/)
+&nbsp;
+  
+- 👨‍💻 All of my projects are available 
+[Portfolio website](https://apathetic.vercel.app/)
 
 - 💬 Ask me about **html, css, python, javascript**
 
 - 📫 How to reach me **apathetic.damn@gmail.com**
 
-- 📄 Know about my experiences [https://apathetic.vercel.app/](https://apathetic.vercel.app/)
+- 📄 Know about my experiences [Portfolio website](https://apathetic.vercel.app/)
 
 - ⚡ Fun fact **I excel in coding, turning errors into growth opportunities gracefully.**
 
