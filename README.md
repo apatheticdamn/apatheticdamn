@@ -1,3 +1,5 @@
+![masthead](https://cdn.discordapp.com/attachments/1126453594653216799/1198334891897651210/banner.png?ex=65be8756&is=65ac1256&hm=c29108c4a3dd09517646f7d234110465b884be5a1e87e93e9f54c64e2058acb5&)
+
 <h1 align="center">Hi 👋, I'm Apathetic</h1>
 <h3 align="center">I'm a coding enthusiast with a flair for turning caffeine into code.</h3>
 <img align="right" alt="Mai-San-gif" width="380" src="https://cdn.discordapp.com/attachments/1126453594653216799/1198343974470033508/output-onlinegiftools.gif?ex=65be8fcb&is=65ac1acb&hm=e51b16824652aaae1fee3cd20fb89b05235aac29ad3bf9a26b928f52eb971968&">
