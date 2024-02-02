@@ -23,7 +23,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,md,vite,git,github,vscode,vim,replit,ae,blender,discord,bots,linux" />
+  </a>
+</p>
 
 ### In a Nutshell 🌰
 
