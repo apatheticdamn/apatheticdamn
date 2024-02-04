@@ -6,8 +6,7 @@
 
 &nbsp;
   
-- 👨‍💻 All of my projects are available on my
-[Portfolio website](https://apathetic.vercel.app/)
+- 👨‍💻 Check out my portfolio website [Portfolio website](https://apathetic.vercel.app/)
 
 - 💬 Ask me about **html, css, python, javascript**
 
