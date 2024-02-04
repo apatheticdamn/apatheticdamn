@@ -38,7 +38,7 @@
 - **Passions:** Games, Websites, Programs
 - **Hobbies:** Anime, Gaming, Web Series, Movies, Music
 - **Favorite Band:** Ciggs After Sex (for that mesmerizing androgynous voice)
-- **Motto:** "I might be Apathetic, but I'm certainly not indifferent to the magic of coding!"
+
 
 Feel free to wander through my repositories, and let's embark on a code-filled journey together! 🚀✨
 
