@@ -23,7 +23,7 @@
   </a>
 </p>
 </br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">What I know:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,md,vite,git,github,vscode,vim,replit,ae,blender,discord,bots,linux" />
