@@ -26,7 +26,7 @@
 <h3 align="left">What I know:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,md,vite,git,github,vscode,vim,replit,ae,blender,discord,bots,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,md,vite,git,github,vscode,neovim,replit,ae,blender,discord,bots,linux" />
   </a>
 </p>
 
