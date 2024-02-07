@@ -8,7 +8,7 @@
   
 - 👨‍💻 Check out my portfolio website [Portfolio website](https://apathetic.vercel.app/)
 
-- 💬 Ask me about **html, css, python, javascript**
+- 💬 Ask me about **Html, Css, Javascript, Python**
 
 - 📫 How to reach me **apathetic.damn@gmail.com**
 
