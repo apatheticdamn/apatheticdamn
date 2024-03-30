@@ -30,7 +30,7 @@
   </a>
 </p>
 
-### In a Nutshell 🌰
+### In a Nutshell
 
 - **Name:** Apathetic
 - **Languages:** HTML, CSS, JavaScript, Python
@@ -39,7 +39,7 @@
 - **Favorite Band:** Ciggs After Sex (for that mesmerizing androgynous voice)
 
 
-Feel free to wander through my repositories, and let's embark on a code-filled journey together! 🚀✨
+Feel free to wander through my repositories 😊 
 
 <h3 align="left">Support:</h3>
 <p>
