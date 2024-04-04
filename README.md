@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apathetic</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 5px;">, I'm Apathetic</h1>
 <h3 align="center">I'm a coding enthusiast with a flair for turning caffeine into code.</h3>
 &nbsp;
 &nbsp;
