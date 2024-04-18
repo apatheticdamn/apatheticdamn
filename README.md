@@ -1,5 +1,5 @@
 # Hello, My name is Kush
- - I love programming and solving problems
+ - I love programming, tech and solving problems
 
 ### About me:
 ```js
