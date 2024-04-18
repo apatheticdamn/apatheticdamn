@@ -14,7 +14,7 @@ const apathetic = {
 
 - **Name:** Kush/Apathetic
 - **Passions:** Games, Websites, Programs
-- **Hobbies:** Anime, Gaming, Web Series, Movies and Music
+- **Hobbies:** Anime, Gaming, Reading books and Manga, Movies and Music
 - **Favorite Band:** Ciggs After Sex (for that mesmerizing androgynous voice)
 
 <h3 align="left">Support:</h3>
