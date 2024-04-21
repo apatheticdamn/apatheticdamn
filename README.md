@@ -5,8 +5,11 @@
 ```js
 const apathetic = {
     pronouns: "He" | "Him",
-    code: ["HTML", "CSS", "Javascript", "Python", "C", "SQL"],
-    askMeAbout: ["game development", "tech", "web development", "music", "anime", "movies", "ai"],
+    code: ["HTML", "CSS", "Javascript",
+           "Python", "C", "Md"]
+    askMeAbout: ["game development", "tech",
+                 "web development", "music",
+                 "anime", "movies", "ai"]
 };
 ```
 
