@@ -3,7 +3,7 @@
 
 ### About me:
 ```js
-const apathetic = {
+const k = {
     pronouns: "He" | "Him",
     code: ["HTML", "CSS", "Javascript",
            "Python", "C", "Md"]
@@ -15,7 +15,7 @@ const apathetic = {
 
 ### In a Nutshell
 
-- **Name:** Kush/Apathetic
+- **Name:** Kush/K
 - **Passions:** Games, Websites, Programs
 - **Hobbies:** Anime, Gaming, Reading books and Manga, Movies and Music
 - **Favorite Band:** Ciggs After Sex (for that mesmerizing androgynous voice)
